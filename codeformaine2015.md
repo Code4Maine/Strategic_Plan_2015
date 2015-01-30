@@ -116,10 +116,40 @@ Another possible area of collaboration could be in utilizing the excellent (Publ
 
 Perhaps the most exciting project currently in development is the project management tool in of its own accord! Developed by Delivery Lead, Colin Powell, [beehve](https://github.com/Code4Maine/beehve) has been specifically designed to address challenges arising from regionwide organizing efforts wherein participation is likely to occur remotely. Beehve will facilitate a project pipeline that begins with a brainstorming hackpad, leads to a github repo,project wiki and ultimately top billing on the website while being managed by the Delivery Lead. Content displayed on the brigade landing page at http://www.codeformaine.org/ serves as a front end for the team dash, which will include everything from blog posts, to Meetup events to new contributions on our Github repository.
 
+Budget
+------
+
+Code for Maine requires a subset of the available funds to continue to
+organize high-quality events and provide the services our innovators need to
+deliver on our plan this year.
+
+### Regular meetings:
+  * $1100 (Feb-Dec monthly meetings x $100) - food + supplies
+
+### One-off events
+  * $500 CodeAcross 2015
+  * $1000 3rd Annual National Day of Civic Hacking Maine  
+
+### Development
+  * $700 for hosting, domain registrations and general support
+    * (Digital Ocean, AWS, namecheap, getsentry.com, etc ...)
+
+**Total 2015 budget: $2300**
+
+Municipal & Community Partners
+------------------------------
+
+### Municipal partners
+
+#### Ben Sprague
+  * City Councilor
+  * bsprague1@gmail.com
+
 Outcomes
 --------
 
-Thanks largely to the success of two consecutive NDoCH events, the Bangor program is at such an advanced stage as to consider an Institution role for the Brigade.  Thus, a successful 
+Thanks largely to the success of two consecutive NDoCH events, the Bangor program is at such an 
+advanced stage as to consider an Institution role for the Brigade.  Thus, a successful 
 outcome in Bangor would meet the criteria of an Institutional model as currently defined by 
 Brigade Leadership.  From the perspective of Code for Maine, the Bangor Program will be a 
 success if/when it yields useful guidelines on which future municipal partnerships can be built. 
